@@ -22,6 +22,7 @@ public class Potenza {
 		for(int i=0; i<20; i++)
 			if(potenzaGenerica(2, i))
 				l.add(i);
+		System.out.println(l);
 		return l;
 	}
 }

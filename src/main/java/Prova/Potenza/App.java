@@ -1,7 +1,5 @@
 package Prova.Potenza;
 
-import java.util.ArrayList;
-
 /**
  * Hello world!
  *
@@ -18,7 +16,6 @@ public class App
     	if(p.potenzaGenerica(5, 625))
     		System.out.println("potenza di 5");*/
     	
-    	ArrayList<Integer> list = p.potenzeDiDue();
-    	System.out.println(list);
+    	p.potenzeDiDue();
     }
 }
