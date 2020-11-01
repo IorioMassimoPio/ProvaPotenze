@@ -17,5 +17,6 @@ public class App
     		System.out.println("potenza di 5");*/
     	
     	p.potenzeDiDue();
+    	System.out.println("Ciao Giovanni");
     }
 }
